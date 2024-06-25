@@ -1,1 +1,1 @@
-# devops-practice
+# DevOps Training Repository 
