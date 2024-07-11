@@ -26,7 +26,7 @@ Este repositorio es una recopilación de recursos (principalmente en español)  
 - 📜 Artículos 
 - 📺 Videos
 - 🆘 Cheatsheets (hojas de apoyo)
-- 🚧 Ejercicios realizados 
+- 🔥 Ejercicios
 
 ### ➡️ AWS
 
@@ -34,7 +34,7 @@ Este repositorio es una recopilación de recursos (principalmente en español)  
 - 📜 Artículos 
 - 📺 Videos
 - 🆘 Cheatsheets (hojas de apoyo)
-- 🚧 Ejercicios realizados 
+- 🔥 Ejercicios 
 
 
 ### ➡️ GCP
@@ -43,7 +43,7 @@ Este repositorio es una recopilación de recursos (principalmente en español)  
 - 📜 Artículos 
 - 📺 Videos
 - 🆘 Cheatsheets (hojas de apoyo)
-- 🚧 Ejercicios realizados 
+- 🔥 Ejercicios
 
 
 ### ➡️ Docker
@@ -52,7 +52,7 @@ Este repositorio es una recopilación de recursos (principalmente en español)  
 - 📜 Artículos 
 - 📺 Videos
 - 🆘 Cheatsheets (hojas de apoyo)
-- 🚧 Ejercicios realizados 
+- 🔥 Ejercicios 
 
 
 ### ➡️ Kubernetes
@@ -61,7 +61,7 @@ Este repositorio es una recopilación de recursos (principalmente en español)  
 - 📜 Artículos 
 - 📺 Videos
 - 🆘 Cheatsheets (hojas de apoyo)
-- 🚧 Ejercicios realizados 
+- 🔥 Ejercicios 
 
 ### 🛟 Recursos salvavidas 🛟
 
@@ -99,7 +99,7 @@ Este repositorio es una recopilación de recursos (principalmente en español)  
     - [100 days of devops](https://github.com/100daysofdevops/100daysofdevops/tree/master?tab=readme-ov-file)
     - [DevOps Projects - NotHarshhaa](https://github.com/NotHarshhaa/DevOps-Projects/tree/master)
     - [Tutorials - Anton Putra](https://github.com/antonputra/tutorials?tab=readme-ov-file)
-3. 🆘 Cheatsheets (hojas de apoyo)
+3. 🆘 Cheatsheets 
 
 
 ### ©️ Créditos ©️
