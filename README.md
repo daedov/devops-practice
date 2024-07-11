@@ -72,7 +72,7 @@ Este repositorio es una recopilación de recursos (principalmente en español)  
 
 ### ➡️ Kubernetes
 
-- 📂 [Documentación oficial](https://kubernetes.io/es/docs/home/) - En inglés
+- 📂 [Documentación oficial](https://kubernetes.io/es/docs/home/) 
 - 📜 Artículos 
 - 📺 Videos
 - 🆘 Guía de comandos 
