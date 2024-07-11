@@ -9,89 +9,113 @@ Este repositorio es una recopilación de recursos (principalmente en español)  
 
 ### ➡️ ¿Qué es DevOps?
 
-- 📜 Artículos 
-    - [¿Qué es DevOps?](https://aws.amazon.com/es/devops/what-is-devops/) | **AWS**
-    - [¿En qué consiste la cultura de DevOps?](https://www.atlassian.com/es/devops/what-is-devops/devops-culture) | **Atlassian**
-- 📺 Videos
-    - [¿Qué es DevOps y CI/CD?](https://www.youtube.com/watch?v=xm1psJEFFIY) | 7min | **Fazt Code**
-    - [¿Qué es DevOps](https://www.youtube.com/watch?v=3HBWubLOx8M) | 26min | **Fernando Herrera**
+- 📜 **Artículos**
+    - [¿Qué es DevOps?](https://aws.amazon.com/es/devops/what-is-devops/) | AWS
+    - [¿En qué consiste la cultura de DevOps?](https://www.atlassian.com/es/devops/what-is-devops/devops-culture) | Atlassian
+- 📺 **Videos**
+    - [¿Qué es DevOps y CI/CD?](https://www.youtube.com/watch?v=xm1psJEFFIY) | 7min | Fazt Code
+    - [¿Qué es DevOps](https://www.youtube.com/watch?v=3HBWubLOx8M) | 26min | Fernando Herrera
 
 ### ➡️ ¿Qué es Cloud Computing?
 
-- 📜 Artículos 
-- 📺 Videos
+- 📜 **Artículos**
+- 📺 **Videos**
 
 ### ➡️ Linux
 
 - 📜 Artículos 
 - 📺 Videos
-- 🆘 Cheatsheets (hojas de apoyo)
+- 🆘 Guía de comandos 
+- 🔥 Ejercicios
+
+### ➡️ GIT
+
+- 📜 Artículos 
+- 📺 Videos
+- 🆘 Guía de comandos 
+- 🔥 Ejercicios
+
+### ➡️ CI/CD
+
+- 📜 Artículos 
+- 📺 Videos
+- 🆘 Ejemplos de pipelines
 - 🔥 Ejercicios
 
 ### ➡️ AWS
 
-- 📂 Documentación oficial
+- 📂 [Documentación oficial](https://docs.aws.amazon.com/es_es/)
 - 📜 Artículos 
 - 📺 Videos
-- 🆘 Cheatsheets (hojas de apoyo)
+- 🆘 Guía de comandos 
 - 🔥 Ejercicios 
 
 
 ### ➡️ GCP
 
-- 📂 Documentación oficial
+- 📂 [Documentación oficial](https://cloud.google.com/docs?hl=es-419)
 - 📜 Artículos 
 - 📺 Videos
-- 🆘 Cheatsheets (hojas de apoyo)
+- 🆘 Guía de comandos 
 - 🔥 Ejercicios
 
 
 ### ➡️ Docker
 
-- 📂 Documentación oficial
+- 📂 [Documentación oficial](https://docs.docker.com/) - En inglés
 - 📜 Artículos 
 - 📺 Videos
-- 🆘 Cheatsheets (hojas de apoyo)
+- 🆘 Guía de comandos  
+- 🆘 Ejemplo de Dockerfile
 - 🔥 Ejercicios 
 
 
 ### ➡️ Kubernetes
 
-- 📂 Documentación oficial
+- 📂 [Documentación oficial](https://kubernetes.io/es/docs/home/) - En inglés
 - 📜 Artículos 
 - 📺 Videos
-- 🆘 Cheatsheets (hojas de apoyo)
+- 🆘 Guía de comandos 
+- 🆘 Ejemplos de manifiestos
 - 🔥 Ejercicios 
 
-### 🛟 Recursos salvavidas 🛟
+### ➡️ Terraform
 
-1. 🆘 
-2. 🆘 
+- 📂 [Documentación oficial](https://developer.hashicorp.com/terraform/docs) - En inglés
+- 📜 Artículos 
+- 📺 Videos
+- 🆘 Guía de comandos 
+- 🔥 Ejercicios 
+
+### 🛟 **Recursos salvavidas** 🛟
+
+1. 🆘 [Guía de comandos Editor VIM](./Recursos-extras/vim.md)
+2. 🆘 [Lista de puertos predeterminados (servidores, base de datos, aplicaciones...)](./Recursos-extras/puertos.md)
 3. 🆘 
 
 
-### 🧠 Cursos recomendados 🧠
+### 📝 **Cursos recomendados**📝
 
 1. 📌 [Repositorio IV Edición Bootcamp DevOps](https://github.com/roxsross/bootcamp-devops-2023) | **RoxsRoss**
-2. 📌 [IV Edición Bootcamp DevOps - Youtube](https://youtube.com/playlist?list=PLNkefP1xaOeyTQuNnd6HYVPqCWMXn-c5P&si=3bmBnU_2r1WhwRUt) | **RoxsRoss**
-3. 📌 [The DevOps Journey 101](https://github.com/roxsross/The-DevOps-Journey-101) | **RoxsRoss**
-4. 📌 [Listado cursos DevOps](https://www.youtube.com/@PeladoNerd) | **Pelado Nerd**
+2. 📌 [Playlist IV Edición Bootcamp DevOps](https://youtube.com/playlist?list=PLNkefP1xaOeyTQuNnd6HYVPqCWMXn-c5P&si=3bmBnU_2r1WhwRUt) | **RoxsRoss**
+3. 📌 [Repositorio The DevOps Journey 101](https://github.com/roxsross/The-DevOps-Journey-101) | **RoxsRoss**
+4. 📌 [Playlist DevOps](https://www.youtube.com/@PeladoNerd) | **Pelado Nerd**
 5. 📌 [Skills for All Cisco](https://skillsforall.com/es/) 
 6. 📌 [Google Cloud Skills Boost](https://www.cloudskillsboost.google/paths)
 7. 📌 [AWS Skill Builder](https://explore.skillbuilder.aws/learn/external-ecommerce;view=signin;redirectURL=)
 8. 📌 [Microsoft Learn Azure](https://learn.microsoft.com/es-es/training/azure/)
 
 
-### 🌎 Recursos en inglés 🌎
+### 🌎 **Recursos en inglés** 🌎
 
-1. 📌 Cursos
+1. 📌 **Cursos**
     - [Tech World with Nana](https://www.youtube.com/@TechWorldwithNana)
     - [DevOps Courses freeCodeCamp](https://youtube.com/playlist?list=PLWKjhJtqVAbkzvvpY12KkfiIGso9A_Ixs&si=bTP0uaYCKk7E7yOH) 
     - [Terraform Tutorials](https://developer.hashicorp.com/terraform/tutorials?product_intent=terraform)
     - [Kode Kloud](https://kodekloud.com/)
     - [Killercoda](https://killercoda.com/)
 
-2. 💻 Repositorios
+2. 💻 **Repositorios**
     - [Devops exercises - Arie Bregman](https://github.com/bregman-arie/devops-exercises)
     - [A Cloud Guru - Stephen Sennett](https://github.com/ACloudGuru-Resources)
     - [Devops 101 - KodeKloud](https://github.com/kodekloudhub/devops-101/tree/main)
