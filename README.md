@@ -123,7 +123,7 @@ Este repositorio es una recopilación de recursos (principalmente en español) p
 7. 📌 [Skills for All Cisco](https://skillsforall.com/es/) 
 8. 📌 [Microsoft Learn Azure](https://learn.microsoft.com/es-es/training/azure/)
 9. 📌 [DEV Community - dev.to](https://dev.to/search?utf8=%E2%9C%93&q=devops) (*recursos en inglés y español*)
-10. 📌 [Medium](https://medium.com/search?q=devops) (*info variada y prácticas paso a paso en inglés y español*)
+10. 📌 [Medium](https://medium.com/search?q=devops) (*info y prácticas paso a paso en inglés y español*)
 
 ### 🌎 **Recursos en inglés - DevOps Resources** 🌎
 
